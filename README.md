@@ -18,6 +18,6 @@ I put together this little blooming flowers project, but let's be real—it’s 
 
 1. Clone this repository.
     ```bash
-    git clone https://github.com/nerdylelouch/Flowers.git
+    git clone https://github.com/nerdylua/Flowers.git
     ```
 2. Open `index.html` in a browser to view the blooming flowers animation.
